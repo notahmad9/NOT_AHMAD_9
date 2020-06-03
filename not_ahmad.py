@@ -95,7 +95,7 @@ anime("\x1b[31;1m| '--------------' |\x1b[37;1m")
 anime("\x1b[31;1m '----------------' \x1b[37;1m")
 
 CorrectUsername = "AHMAD"
-CorrectPassword = "SOFWARE"
+CorrectPassword = "SOFTWARE"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\x1b[34;1m👨‍ \x1b[1;95mID \x1b[31;1m@NOT>>\x1b[1;91m")
