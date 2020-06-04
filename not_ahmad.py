@@ -107,10 +107,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;96m password kat halaya"
-            print " tkaya dawa la ahmad bka ta pass u user dast bkawe"
+            print " tkaya dawa la ahmad bka ta pass u user dast bkawe user name is telegram @NOT_AHMAD"
     else:
         print "\033[1;96mID kat halaya "
-        print " tkaya dawa la ahmad bka ta pass u user dast bkawe"
+        print " tkaya dawa la ahmad bka ta pass u user dast bkawe user name is telegram @NOT_AHMAD"
 
 def login():
 	os.system('clear')
